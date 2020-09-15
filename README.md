@@ -1,4 +1,4 @@
 # go_variables
 
 ## Circulo
-![Image of circle program](./Circulo.jpg)
+![Image of circle program](./circulo.jpg)
